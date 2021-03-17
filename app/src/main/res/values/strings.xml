@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AZ Music Player</string>
+    <string name="tab_text_1">Tracks</string>
+    <string name="tab_text_2">Artists</string>
+    <string name="tab_text_3">Albums</string>
+    <string name="tab_text_4">Playlists</string>
+</resources>
